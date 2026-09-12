@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AEGIS generated artifacts
+runs/
+sandbox/outbox/
